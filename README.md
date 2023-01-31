@@ -17,3 +17,4 @@
 * Push
 * Create a Pull Request
 * Fun slideshow! :)
+* Summary and additional tools
