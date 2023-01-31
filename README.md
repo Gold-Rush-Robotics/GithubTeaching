@@ -3,6 +3,7 @@
 ## Agenda
 * What is Git
 * What is Github
+* Goals
 * Create a GitHub account
 * Downlod Github desktop
 * Create a repo
