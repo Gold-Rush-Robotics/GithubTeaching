@@ -8,6 +8,7 @@
 * Create a repo
 * Add / Commit
 * Push / Pull
+* ---------------
 * Clone This Repo
 * Make a branch 
 * Add a file
