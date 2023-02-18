@@ -232,15 +232,52 @@ The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
 
 # Oh right... Branches
 
+![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.26.44%20AM.png)
 
+* To view the code on a branch, click the dropdown circled in yellow
+* You should see that file now! 
+* Thats all we need on that branch, Time for a PR (Pull Reqeuest)
 
+---
 
+# Pull Requests
+* There should be a giant banner at the top with a button that says "Compare and Pull Request" (GitHub is smart...) Click it
+* Since it says "Able to merge" up at the top, we can click the create pull request down at the bottom. 
+![Alt text](img/Screen%20Shot%202023-02-18%20at%205.30.45%20AM.png)
+
+* GitHub will quickly check that it can sucessfully merge the branches again then a Merge Pull Request button will show up --> "Confirm merge" button --> "Delete Branch" button
+
+---
+# Summary
+* While it might take a bit to setup, Git and Github gives you power over your code and keeps you from being able to loose it. Cloud Backups FTW. 
+* In addition to creating your own repos, You can clone other peoples public repos!
+    * Try it out with this repo: https://github.com/Gold-Rush-Robotics/GithubTeaching
+        * Just click on the code button
+        * And then the Open in Github Desktop button
+---
+
+# Summary pt 2
+
+* git and GitHub are powerful tools that we have **BARELY** scratched the surface of today
+* If we have time, Philip will show how the workflow goes once it is all setup!
+
+# Thanks For Comming!
+
+---
 
 <!--
+If you click back on code, you should see the file on the main branch! 
+-->
+
+
 
 ![bg left height 50%](img/Screen%20Shot%202023-02-18%20at%205.00.22%20AM.png)
-# Repo Management
+# Bonus Hint
+## Repo Management
 
-You can change which repo you have selected in the Top right corner
+You can change which repo you have selected in the Top right corner of GitHub desktop
 
--->
+---
+# Questions?
+
+if you have any now or later feel free to shoot me an email (philip@randomsmiths.com or psmit145@uncc.edu)
