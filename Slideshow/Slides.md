@@ -172,14 +172,65 @@ Lets go ahead and Click Create a new Repository on your hard Drive
 ![bg  width 100%](img/Screen%20Shot%202023-02-18%20at%204.44.04%20AM.png)
 
 <!-- 
-The defualt view of github desktop
+The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
 -->
 ---
+# Branch Managment
 
-![bg width 100%](img/Screen%20Shot%202023-02-18%20at%205.03.05%20AM.png)
+* Click on the branch menu 
+* Click on the New Branch button
+* Name it your name
+* GitHub desktop automatically created it, and checked it out
+
+![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.03.05%20AM.png)
 
 
+![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.06.23%20AM.png)
 
+
+---
+# Add Content
+
+* Click on view the files of your repository 
+    - If you have an external editor installed click open in external editor instead
+* Add a file at that location, name it yourname.txt
+* open it up, and put your name in it
+* save the file
+* go back to github desktop
+
+---
+![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.11.42%20AM.png)
+
+# <!--fit--> Changes view
+
+* In the changes view, you see all the files changed since the last commmit 
+* You can see exactly what changed, Line by Line in each file
+* Click the Checkbox next to the changes you want to save
+
+---
+
+# Making your first commit
+
+* Once you add the file by clicking the checkbox, fill in the summary, or accept GitHub Desktops auto summary
+* You can also add a description if you wish to add more info about the changes
+* Then in the top menu, click publish branch (will become "push changes" if you had already worked on the branch)
+
+---
+
+![bg left height 100%](img/yay.gif)
+
+# Success
+* **You** now have something you wrote on GitHub (first time is the hardest)
+* Lets go have a look...
+    * [Open GitHub](https://github.com)
+    * look on the sidebar for your repo
+    * click on it
+    * wait... what wheres {name}.txt ????
+
+
+---
+
+# Oh right... Branches
 
 
 
