@@ -26,31 +26,6 @@ By the end of this workshop you should be able to:
 
 ---
 
-<!---
-## Agenda
-<div class="columns"><div>
-
-- What is git
-- What is github
-- Goals
-- Create a GitHub account
-- Downlod Github desktop
-- Create a repo
-- Add / Commit
-- Push / Pull
-</div><div>
-
-- Clone This Repo
-- Make a branch 
-- Add a file
-- Make a Commit
-- Push
-- Create a Pull Request
-- Summary and additional tools
-</div></div>
-
---->
-
 # What is git?
 
 * Version Control
@@ -117,7 +92,7 @@ Generally, all new code goes on a branch until it works and then it is merged in
 * Optional: add CI/CD workflows 
 
 ---
-# <!--fit-->Lets Do IT
+# <!--fit-->Lets Do It
 ---
 
 # Creating a GitHub Account
