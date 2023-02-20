@@ -149,19 +149,6 @@ Lets go ahead and Click Create a new Repository on your hard Drive
 <!-- 
 The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
 -->
----
-# Branch Managment
-
-* Click on the branch menu 
-* Click on the New Branch button
-* Name it your name
-* GitHub desktop automatically created it, and checked it out
-
-![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.03.05%20AM.png)
-
-
-![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.06.23%20AM.png)
-
 
 ---
 # Add Content
@@ -200,27 +187,7 @@ The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
     * [Open GitHub](https://github.com)
     * look on the sidebar for your repo
     * click on it
-    * wait... what wheres {name}.txt ????
 
-
----
-
-# Oh right... Branches
-
-![bg left width 100%](img/Screen%20Shot%202023-02-18%20at%205.26.44%20AM.png)
-
-* To view the code on a branch, click the dropdown circled in yellow
-* You should see that file now! 
-* Thats all we need on that branch, Time for a PR (Pull Reqeuest)
-
----
-
-# Pull Requests
-* There should be a giant banner at the top with a button that says "Compare and Pull Request" (GitHub is smart...) Click it
-* Since it says "Able to merge" up at the top, we can click the create pull request down at the bottom. 
-![Alt text](img/Screen%20Shot%202023-02-18%20at%205.30.45%20AM.png)
-
-* GitHub will quickly check that it can sucessfully merge the branches again then a Merge Pull Request button will show up --> "Confirm merge" button --> "Delete Branch" button
 
 ---
 # Summary
