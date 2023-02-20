@@ -11,7 +11,7 @@ style: |
 ---
 ![bg right width 100%](img/Logo_MainGreenBorder.png)
 # Intro to Git/Github
-by: Philip Smith & Samantha Crane
+by: Philip Smith & Sam Crane
 
 ## <!--fit-->with Gold Rush Robotics
 ---
@@ -22,7 +22,6 @@ By the end of this workshop you should be able to:
 
 * Use Git and Github to manage your own projects
 * Clone and collaborate on other projects
-* Use a branch and create a Pull Request (PR)
 
 ---
 
@@ -63,12 +62,9 @@ Generally, all new code goes on a branch until it works and then it is merged in
 
 # Workflow with git
 
-1. Make a branch
-2. Make changes 
-3. git add
-4. git commit
-5. Repeat 2-5 until you finish the goal of the branch
-6. git merge branch back into main
+1. Make changes 
+2. git add
+3. git commit
 
 ---
 
@@ -88,7 +84,6 @@ Generally, all new code goes on a branch until it works and then it is merged in
 * Before working, make sure to fetch and then pull
 * Do your standard git workflow
 * Push your code
-* Instead of merging locally, create a Pull Request (PR)
 * Optional: add CI/CD workflows 
 
 ---
@@ -205,19 +200,6 @@ The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
 
 # Thanks For Comming!
 
----
-
-<!--
-If you click back on code, you should see the file on the main branch! 
--->
-
-
-
-![bg left height 50%](img/Screen%20Shot%202023-02-18%20at%205.00.22%20AM.png)
-# Bonus Hint
-## Repo Management
-
-You can change which repo you have selected in the Top right corner of GitHub desktop
 
 ---
 # Questions?
