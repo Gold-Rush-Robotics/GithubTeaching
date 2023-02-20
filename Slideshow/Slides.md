@@ -15,7 +15,7 @@ by: Philip Smith
 
 ## <!--fit-->with Gold Rush Robotics
 
-## <span color="#ffffff"> It's time to git good </span>
+## <!--fit--><span color="#ffffff"> It's time to git good </span>
 ---
 
 # Goals
