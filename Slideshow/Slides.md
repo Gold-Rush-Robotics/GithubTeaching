@@ -11,9 +11,11 @@ style: |
 ---
 ![bg right width 100%](img/Logo_MainGreenBorder.png)
 # Intro to Git/Github
-by: Philip Smith & Sam Crane
+by: Philip Smith
 
 ## <!--fit-->with Gold Rush Robotics
+
+## <span color="#ffffff"> It's time to git good </span>
 ---
 
 # Goals
@@ -170,7 +172,7 @@ The defualt view of github desktop, go ahead and hit publish repo, or CMD/CTRL P
 
 * Once you add the file by clicking the checkbox, fill in the summary, or accept GitHub Desktops auto summary
 * You can also add a description if you wish to add more info about the changes
-* Then in the top menu, click publish branch (will become "push changes" if you had already worked on the branch)
+* Then in the top menu, click publish origin 
 
 ---
 
